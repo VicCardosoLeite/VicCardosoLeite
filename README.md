@@ -1,7 +1,7 @@
 ## Hiii! Welcome to my profile
  <div>
   <a href="https://github.com/VictoriaCardosoChavesLeite">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=VictoriaCardosoChavesLeite&show_icons=true&theme=tokyonight">
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=VictoriaCardosoChavesLeite&show_icons=true&include_all_commits=true&theme=tokyonight">
     <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaCardosoChavesLeite&theme=tokyonight"
  <div>
 <div style="display: inline_block"><br>
