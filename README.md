@@ -1,9 +1,9 @@
 ## Hiii! Welcome to my profile
  <div>
-  <a href="https://github.com/VictoriaCardosoChavesLeite">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VictoriaCardosoChavesLeite&show_icons=true&include_all_commits=true&theme=dracula">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaCardosoChavesLeite&theme=dracula"
- <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictoriaCardosoChavesLeite&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictoriaCardosoChavesLeite&layout=compact&langs_count=16&theme=dracula"/>
+<div>
 <div style="display: inline_block"><br>
  <img height="150em" img align="left" alt="![baixados](https://br.pinterest.com/pin/785667097496039725/)" src="https://i.pinimg.com/originals/c8/8d/16/c88d1625183ea6d0bc1301670318a17c.gif">
 </div>
